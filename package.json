@@ -1,5 +1,6 @@
 {
   "private": true,
+  "description": "https://nextjs.org/learn/dashboard-app/getting-started",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
